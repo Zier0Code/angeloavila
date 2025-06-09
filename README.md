@@ -25,7 +25,7 @@ This is a modern, responsive developer portfolio built with **Next.js**, **React
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Zier0Code/portfolio.git
+   git clone https://github.com/Zier0Code/angeloavila.git
    cd portfolio
    ```
 
