@@ -17,7 +17,7 @@ const ProjectSection = () => {
       title: "Blogify",
       description:
         "A simple full-stack web application for creating Blogs with React, Vite.js , TailwindCSS , and Supabase,",
-      image: "/images/project1.png",
+      image: "/images/project1.PNG",
       tech: ["React", "Node.js", "Supabase", "TailwindCSS", "Vite.js"],
       github: "https://github.com/Zier0Code/simple-web-blog",
       live: "https://blogifyv0.vercel.app",
@@ -26,7 +26,7 @@ const ProjectSection = () => {
       title: "Calculator FastAPI",
       description:
         "Professional Calculator API built with FastAPI Updated for Pydantic V2 compatibility and pytest testing",
-      image: "/images/project2.png",
+      image: "/images/project2.PNG",
       tech: ["Python", "FastAPI", "pytests", "Flask", "uvicorn server"],
       github: "https://github.com/Zier0Code/fastapi-calculator",
       // live: "#",
@@ -35,7 +35,7 @@ const ProjectSection = () => {
       title: "ORCA: Intent-Based Chatbot",
       description:
         "ORCA is an intent-base chatbot that to can be used for various purposes, such as customer support, information retrieval, and more.",
-      image: "/images/project3.png",
+      image: "/images/project3.PNG",
       tech: ["Python", "ReactJS", "TailwindCss", "Flask", "Laravel"],
       github: "https://github.com/Zier0Code/orca-chatbot-thesis-2",
       live: "https://drive.google.com/file/d/1vnmLlLfgqJkJBD3k-L4LStiGhckBcEft/view",
